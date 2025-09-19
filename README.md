@@ -44,6 +44,7 @@ data/ # Raw datasets
    cd okc-thunder-schedule-analysis
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Launch Jupyter Notebook and open the analysis:
