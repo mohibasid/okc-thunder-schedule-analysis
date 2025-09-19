@@ -11,20 +11,20 @@ The analysis also includes a comparison with the **Denver Nuggets** for the 2024
 ## 📂 Repository Structure
 
 okc-thunder-schedule-analysis/
-│
-├── data/ # Raw datasets
-│ ├── schedule.csv
-│ ├── schedule_24_partial.csv
-│ ├── locations.csv
-│ └── team_game_data.csv
-│
-├── notebooks/ # Jupyter Notebooks
-│ └── schedule_project_response_mohib.ipynb
-│
-├── reports/ # Reports/Exports
-│ └── schedule_project_response_mohib.html
-│
-├── requirements.txt # Dependencies
+
+data/ # Raw datasets
+├── schedule.csv
+├── schedule_24_partial.csv
+├── locations.csv
+└── team_game_data.csv
+
+── notebooks/ # Jupyter Notebooks
+└── schedule_project_response_mohib.ipynb
+
+── reports/ # Reports/Exports
+ └── schedule_project_response_mohib.html
+
+── requirements.txt # Dependencies
 └── README.md # Project documentation
 
 ## 🔧 Tools & Technologies
