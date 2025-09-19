@@ -1,0 +1,14 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Jupyter support
+notebook==7.2.2
+jupyterlab==4.2.5
+
+# (Optional, for exporting HTML/PDF if needed)
+nbconvert==7.16.4
