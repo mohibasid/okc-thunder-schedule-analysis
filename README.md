@@ -18,13 +18,13 @@ data/ # Raw datasets
 ├── locations.csv
 └── team_game_data.csv
 
-── notebooks/ # Jupyter Notebooks
+├── notebooks/ # Jupyter Notebooks
 └── schedule_project_response_mohib.ipynb
 
-── reports/ # Reports/Exports
+├── reports/ # Reports/Exports
  └── schedule_project_response_mohib.html
 
-── requirements.txt # Dependencies
+├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
 ## 🔧 Tools & Technologies
