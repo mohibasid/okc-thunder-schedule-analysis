@@ -40,7 +40,7 @@ data/ # Raw datasets
 ## 📝 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<username>/okc-thunder-schedule-analysis.git
+   git clone https://github.com/mohibasid/okc-thunder-schedule-analysis.git
    cd okc-thunder-schedule-analysis
 
 2. Install dependencies:
